@@ -1,0 +1,234 @@
+<?xml version="1.0"?>
+  <NoSQLDB>
+    	  <record>
+      	    <key>
+        	DTime
+      	    </key>
+           <value>
+              <name>
+                 DateTime
+              </name>
+              <dateTime>
+                 Wed Feb  7 22:27:50 2018
+              </dateTime>
+              <payLoad>
+                 This is a payload. It can contain anything. 
+              </payLoad>
+             <description>
+                 Life at syracuse is good.
+             </description>
+             <children>
+               <key>
+                  DateTime.h
+               </key>
+               <key>
+                 StringUtilities.h
+               </key>
+	       <key>
+                 DateTime.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+	 <record>
+      	    <key>
+        	DCore
+      	    </key>
+           <value>
+              <name>
+                 DbCore
+              </name>
+              <dateTime>
+                 Wed Feb  7 23:31:44 2018
+              </dateTime>
+              <payLoad>
+                 DAA
+              </payLoad>
+             <description>
+                 Design and Analysis of Algorithms
+             </description>
+             <children>
+               <key>
+                  DbCore.h
+               </key>
+               <key>
+                 StringUtilities.h
+               </key>
+	       <key>
+                 DbCore.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+         <record>
+      	    <key>
+        	Per
+      	    </key>
+           <value>
+              <name>
+                 Persistence
+              </name>
+              <dateTime>
+                 Wed Feb  7 23:21:12 2018
+              </dateTime>
+              <payLoad>
+                 CA
+              </payLoad>
+             <description>
+                 Computer architecture
+             </description>
+             <children>
+               <key>
+                  Persistence.h
+               </key>
+	       <key>
+                 Persistence.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+	 <record>
+      	    <key>
+        	Qu
+      	    </key>
+           <value>
+              <name>
+                 Query
+              </name>
+              <dateTime>
+                 Wed Feb  7 21:03:25 2018
+              </dateTime>
+              <payLoad>
+                 DBMS
+              </payLoad>
+             <description>
+                 Database Management System
+             </description>
+             <children>
+               <key>
+                  Query.h
+               </key>
+	       <key>
+                 Query.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+	 <record>
+      	    <key>
+        	Uti
+      	    </key>
+           <value>
+              <name>
+                 Utilities
+              </name>
+              <dateTime>
+                 Wed Feb  5 07:31:19 2018
+              </dateTime>
+              <payLoad>
+                 OOD
+              </payLoad>
+             <description>
+                 Object Oriented Design
+             </description>
+             <children>
+               <key>
+                  StringUtilities.h
+               </key>
+	       <key>
+                  StringUtilities.cpp
+               </key>
+	       <key>
+                 TestUtilities.h
+               </key>
+	       <key>
+                 TestUtilities.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+	 <record>
+      	    <key>
+        	Tst
+      	    </key>
+           <value>
+              <name>
+                 Test
+              </name>
+              <dateTime>
+                 Wed Feb  7 8:11:59 2018
+              </dateTime>
+              <payLoad>
+                SPFM
+              </payLoad>
+             <description>
+                 Structured Programming and Formal Menthods
+             </description>
+             <children>
+               <key>
+                  Test.h
+               </key>
+	       <key>
+                  Test.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+ 	 <record>
+      	    <key>
+        	Exe
+      	    </key>
+           <value>
+              <name>
+                 Executive
+              </name>
+              <dateTime>
+                 Wed Feb  1 14:47:17 2018
+              </dateTime>
+              <payLoad>
+                 IP
+              </payLoad>
+             <description>
+                 Internet Programming
+             </description>
+             <children>
+               <key>
+                  Executive.cpp
+               </key>
+             </children>
+           </value>
+         </record>
+ 	 <record>
+      	    <key>
+        	XMLDOc
+      	    </key>
+           <value>
+              <name>
+                 XML
+              </name>
+              <dateTime>
+                 Wed Feb  7 12:59:39 2018
+              </dateTime>
+              <payLoad>
+                 Syracuse University
+              </payLoad>
+             <description>
+                 I'm studying at syracuse university.
+             </description>
+             <children>
+               <key>
+                  XMLDocument.h
+               </key>
+	       <key>
+                  XMLElement.h
+               </key>
+             </children>
+           </value>
+         </record>
+   </NoSQLDB>
+
+
+
+
+
+    

@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project '..\..\XmlDocument\XmlDocument\XmlDocument.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\MSBuild\15.0\Bin\Microsoft.Common.CurrentVersion.targets(1821,5): warning : The referenced project '..\..\XmlDocument\XmlElement\XmlElement.vcxproj' does not exist.
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Persistance.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Persistance.cpp
+  Persistance.vcxproj -> C:\Users\Sharath Nagendra\Documents\Project1\Debug\Persistence.lib

@@ -1,0 +1,30 @@
+
+  <NoSQLDB>
+    <record>
+      <key>
+        Nagendra
+      </key>
+      <value>
+        <name>
+          Sharath
+        </name>
+        <dateTime>
+          Wed Feb  7 23:18:06 2018
+        </dateTime>
+        <payLoad>
+          Students of OOD
+        </payLoad>
+        <description>
+          This has been a stressful day
+        </description>
+        <children>
+          <key>
+            c1
+          </key>
+          <key>
+            c2
+          </key>
+        </children>
+      </value>
+    </record>
+  </NoSQLDB>
